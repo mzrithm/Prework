@@ -1,4 +1,4 @@
-# Pre-work - *Tip Calculator*
+# Pre-work - *Tip Calculator* 📲
 
 This is a **Tip Calculator** application for iOS.
 
@@ -12,13 +12,13 @@ The following **required** functionality is complete:
 
 * [X] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 * [X] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
-
+<!--
 The following **optional** features are implemented:
 
 * [ ] UI animations
 * [ ] Remembering the bill amount across app restarts (if <10mins)
 * [ ] Using locale-specific currency and currency thousands separators.
-* [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+* [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.-->
 
 The following **additional** features are implemented:
 
@@ -28,13 +28,15 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/mzrithm/Prework/blob/af744396090410680a95643776680fad6d5b9079/Prework.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [GIPHY Capture](https://giphy.com/apps/giphycapture).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Building this app was fun and approachable. I found the provided CodePath materials comprehensive and engaging. The most challenging aspect of the build was finding the time to complete it as my application submission coincided with my Fall finals. 
+
+Now that my finals are completed, **I'm looking forward to adding additional features over the holiday break!** 💻
 
 ## License
 
